@@ -1,0 +1,33 @@
+body >*:nth-child(odd){
+    background-color: #FFa7a7;
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
+body >*:nth-child(2){
+    color:#0000ff;
+    font-size: 32px;
+}
+body >*:nth-child(3){
+    font-size: 24px;
+}
+body >*:nth-child(4){
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
+
+.odd{
+    background-color: #FFa7a7;
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
+#number-2{
+    color:#0000ff;
+    font-size: 32px;
+}
+.cool-class{
+    font-size: 24px;
+}
+#number-5{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
